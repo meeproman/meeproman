@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meeproman
-- 👀 I’m interested in robotic
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on stupid robot project
+- 👀 I’m interested in robotic and web development
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me theblank001@gmail.com
 
 <!---
